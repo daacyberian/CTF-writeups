@@ -1,5 +1,5 @@
 
-# 🔐 Bcrypt Emoji Salt Truncation - CTF Writeup
+# Bcrypt Emoji Salt Truncation - CTF Writeup
 
 ## Category: Web  
 
