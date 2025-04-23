@@ -4,7 +4,7 @@
 ## Category: Web  
 
 ## 📝 Description
-**Challenge Title:** Passwords can be more secure. We're taking the first step.  
+Passwords can be more secure. We're taking the first step.   
 
 
 ---
